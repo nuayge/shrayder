@@ -1,0 +1,3 @@
+panda3d/
+*.gpkg
+__pycache__
