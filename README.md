@@ -2,6 +2,8 @@
 Trying to use [panda3d](https://www.panda3d.org/) to create kinda cool maps.
 
 
+![output](https://github.com/user-attachments/assets/cd24a124-8af0-4133-84bd-56e28e0a8979)
+
 ## How to use
 
 Prepare Data following [this notebook.](./prepare_data.ipynb)
